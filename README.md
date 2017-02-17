@@ -1,2 +1,5 @@
 # IamLearningMEAN
-Learn MEAN stack by building another fantastic blog.
+
+Let's learn MEAN stack by building another fantastic blog.
+
+
